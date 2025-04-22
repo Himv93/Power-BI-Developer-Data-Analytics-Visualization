@@ -4,7 +4,7 @@
 -KPI's=Total_Revenue,AVg_revenue,Total_country,Total_transaction,Age_group
 
 ## Tools Used:
--Tools Power BI, Power Query, DAX, Microsoft Excel.
+-Power BI, Power Query, DAX, Microsoft Excel.
 
 ## Method Used:
 -Data cleaning and transformation, KPI calculation and dashboard design.
